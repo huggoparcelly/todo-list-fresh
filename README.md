@@ -4,7 +4,7 @@ Project developed with deno fresh framework as a way of learning
 
 ### Project online
 
-Access this 
+To see this project online: https://todo-list-fresh.deno.dev/
 
 ### Install project
 
