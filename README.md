@@ -2,11 +2,11 @@
 
 Project developed with deno fresh framework as a way of learning
 
-### To see the project online
+### Project online
 
 Access this 
 
-### Usage
+### Install project
 
 Make sure to install Deno: https://deno.land/manual/getting_started/installation
 
